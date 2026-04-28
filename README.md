@@ -14,6 +14,7 @@ Real Ubuntu for Android is an automated deployment system designed to bring a hi
 ---
 ## 🛠️ Installation
 **Run these commands one by one**
+
 Update package & Install Udroid
 ```
 pkg update && pkg upgrade -y
