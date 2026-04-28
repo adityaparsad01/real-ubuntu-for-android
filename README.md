@@ -29,11 +29,11 @@ pkg install termux-x11-nightly -y
 **Make sure to open termux x11 apk in background**
 ```
 termux-x11 :1  -ac &
-udroid login jammy:xfce4
 ```
 **Start desplay**
 
 ```
+udroid login jammy:xfce4
 export DISPLAY=:1
 startxfce4 & 
 ```
