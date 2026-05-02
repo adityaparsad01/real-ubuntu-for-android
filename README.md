@@ -50,6 +50,7 @@ startxfce4 &
 # .✦ ݁˖ Run AI Tools and Apps 📱
 
 
+
 ## </> Command to Fix Claude Code 
 
 ```
