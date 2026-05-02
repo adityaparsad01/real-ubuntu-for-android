@@ -1,5 +1,7 @@
 # 🐧Real Ubuntu With All Apps & Tools On Android Phone
 **The Ultimate Desktop Experience on Android Phone.** **Maintained by [TheVoidKernel](https://youtube.com/@thevoidkernel)**
+[![real ubuntu on phone](https://github.com/user-attachments/assets/9011f929-f5fa-4f05-87ab-47f89b9f996f)](https://youtu.be/lFWCn4aqcdE?si=hYpIIwkUQBjfDSMc)
+
 
 Real Ubuntu for Android is an automated deployment system designed to bring a high-performance Ubuntu Jammy (22.04) environment with a full XFCE4 Desktop to your mobile device.
 Run All *Linux & Windows Apps & AI Tools on phone* - 
