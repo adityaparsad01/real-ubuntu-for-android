@@ -51,11 +51,12 @@ export DISPLAY=:1
 ```
 startxfce4 & 
 ```
+---
 <div align="center">
   
 # .✦ ݁˖ Run AI Tools and Apps 📱
 </div>
-
+---
 
 ## </> Command to Fix Claude Code 
 
