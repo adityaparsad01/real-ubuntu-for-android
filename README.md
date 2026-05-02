@@ -1,5 +1,9 @@
+<div align="center">
+  
 # 🐧Real Ubuntu With All Apps & Tools On Android Phone
 **The Ultimate Desktop Experience on Android Phone.** **Maintained by [TheVoidKernel](https://youtube.com/@thevoidkernel)**
+</div>
+
 [![real ubuntu on phone](https://github.com/user-attachments/assets/9011f929-f5fa-4f05-87ab-47f89b9f996f)](https://youtu.be/lFWCn4aqcdE?si=hYpIIwkUQBjfDSMc)
 
 
