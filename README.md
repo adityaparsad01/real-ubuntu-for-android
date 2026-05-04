@@ -21,7 +21,11 @@ Run All *Linux & Windows Apps & AI Tools on phone* -
 - **Storage space:** At least 7GB free
 
 ---
+<div align="center">
+  
 ## 🛠️ Installation
+</div>
+
 **Run these commands one by one**
 
 Update package & Install Udroid
@@ -37,7 +41,7 @@ pkg install termux-x11-nightly -y
 ```
 <div align="center">
   
-# 🏁 Start Ubuntu  🐧
+# Start Ubuntu  🐧
 </div>
 
 **Make sure to open termux x11 apk in background**
